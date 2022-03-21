@@ -1,4 +1,4 @@
-## About Flutterwave-Lannister Project
+## About Lannister Payment Project
 
 ## Stacks
  - Server: Nodejs
